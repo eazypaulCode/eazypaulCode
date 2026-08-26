@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          user: eazypaulCode
+          user: paulcodesDE
           template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
